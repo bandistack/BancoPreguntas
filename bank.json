@@ -1,0 +1,602 @@
+[
+ {
+  "c": "Animales",
+  "q": "Las vacas tienen mejores amigas y se estresan cuando las separan.",
+  "a": 1,
+  "why": "Sí, hay estudios: sin su mejor amiga, el corazón se les acelera. Drama de establo."
+ },
+ {
+  "c": "Animales",
+  "q": "Los koalas tienen huellas dactilares casi idénticas a las humanas.",
+  "a": 1,
+  "why": "Tan parecidas que en teoría podrían confundir a un detective. Sospechoso: el koala."
+ },
+ {
+  "c": "Animales",
+  "q": "Entre los caballitos de mar, el macho es quien queda embarazado.",
+  "a": 1,
+  "why": "Y da a luz. Papá caballito merece un aumento."
+ },
+ {
+  "c": "Animales",
+  "q": "Las hormigas no tienen pulmones.",
+  "a": 1,
+  "why": "Respiran por unos huequitos en el cuerpo. Cero cardio, y aun así cargan 50 veces su peso."
+ },
+ {
+  "c": "Animales",
+  "q": "Las estrellas de mar no tienen cerebro.",
+  "a": 1,
+  "why": "Ni corazón ni sangre tampoco. Y aun así les va mejor que a varios de nosotros un lunes."
+ },
+ {
+  "c": "Animales",
+  "q": "Los delfines se llaman entre sí con silbidos propios, como si fueran nombres.",
+  "a": 1,
+  "why": "Cada uno tiene su silbido personal. Nadie ha revelado cuál es el de Gerardo."
+ },
+ {
+  "c": "Animales",
+  "q": "Las abejas pueden aprender a reconocer caras humanas.",
+  "a": 1,
+  "why": "Y tú sin recordar el nombre de la vecina."
+ },
+ {
+  "c": "Animales",
+  "q": "Los gatos no pueden saborear lo dulce.",
+  "a": 1,
+  "why": "Les da igual el postre. Tu cena, en cambio, les interesa mucho."
+ },
+ {
+  "c": "Animales",
+  "q": "Los cocodrilos no pueden sacar la lengua.",
+  "a": 1,
+  "why": "La tienen pegada al paladar. Burlarse les es imposible, y eso da tranquilidad."
+ },
+ {
+  "c": "Animales",
+  "q": "El pez payaso puede cambiar de sexo.",
+  "a": 1,
+  "why": "Si la hembra del grupo falta, el macho dominante toma el puesto. Nemo tenía una trama más complicada."
+ },
+ {
+  "c": "Animales",
+  "q": "Los perros ven solo en blanco y negro.",
+  "a": 0,
+  "why": "Ven colores, aunque menos que nosotros: sobre todo azules y amarillos."
+ },
+ {
+  "c": "Animales",
+  "q": "Los camellos guardan agua en sus jorobas.",
+  "a": 0,
+  "why": "Guardan grasa, que les da energía. El agua la aguantan por otras vías."
+ },
+ {
+  "c": "Animales",
+  "q": "Los toros se enfurecen al ver el color rojo.",
+  "a": 0,
+  "why": "No distinguen bien el rojo. Lo que los irrita es el movimiento de la capa."
+ },
+ {
+  "c": "Animales",
+  "q": "Los peces de colores tienen memoria de solo tres segundos.",
+  "a": 0,
+  "why": "Recuerdan cosas durante meses. Sabían dónde estaba la comida antes de que tú lo recordaras."
+ },
+ {
+  "c": "Animales",
+  "q": "Los lemmings se lanzan en masa por los acantilados.",
+  "a": 0,
+  "why": "Ese momento salió de un documental de 1958 que lo montó. Los lemmings son inocentes."
+ },
+ {
+  "c": "Animales",
+  "q": "Los pájaros abandonan a sus crías si un humano las toca.",
+  "a": 0,
+  "why": "Casi no huelen, así que no las abandonan. Aun así, mejor dejarlas en paz."
+ },
+ {
+  "c": "Animales",
+  "q": "Los tiburones no se enferman nunca de cáncer.",
+  "a": 0,
+  "why": "Sí lo tienen. Ese mito vendió muchas pastillas de cartílago que no servían."
+ },
+ {
+  "c": "Animales",
+  "q": "Las arañas son insectos.",
+  "a": 0,
+  "why": "Son arácnidos: ocho patas y dos partes en el cuerpo, en lugar de seis patas y tres."
+ },
+ {
+  "c": "Animales",
+  "q": "Los pulpos tienen ocho tentáculos.",
+  "a": 0,
+  "why": "Tienen ocho brazos. Los tentáculos son otra cosa, y el calamar los tiene."
+ },
+ {
+  "c": "Animales",
+  "q": "La piel de los osos polares es blanca.",
+  "a": 0,
+  "why": "Es negra, para absorber calor. Están disfrazados de nieve."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "El hueso más pequeño del cuerpo humano está en el oído.",
+  "a": 1,
+  "why": "Se llama estribo y mide unos 3 milímetros. Es más pequeño que tu paciencia."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Cada persona tiene una huella de lengua única, como la digital.",
+  "a": 1,
+  "why": "Tu lengua es tan única como tu huella digital. Todavía no hay cerraduras que la usen, por suerte."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Los bebés nacen con más huesos que los adultos.",
+  "a": 1,
+  "why": "Unos 300, que luego se van fusionando hasta los 206 del adulto."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "El cuerpo humano emite una luz muy débil.",
+  "a": 1,
+  "why": "Es tan tenue que solo cámaras especiales la ven. Brillas, pero solo para la ciencia."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Las uñas de las manos crecen más rápido que las de los pies.",
+  "a": 1,
+  "why": "Por eso el manicure se te acaba antes que el pedicure."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "El corazón late cerca de 100 000 veces al día.",
+  "a": 1,
+  "why": "Sin descanso ni vacaciones. El empleado del año, todos los años."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Tu cuerpo alberga tantas bacterias como células propias.",
+  "a": 1,
+  "why": "Más o menos una por cada célula. Nunca estás solo."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "El cerebro gasta cerca del 20% de la energía del cuerpo.",
+  "a": 1,
+  "why": "Por eso pensar demasiado da hambre. Es ciencia, no excusa."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Los ojos azules no tienen pigmento azul.",
+  "a": 1,
+  "why": "El azul viene de cómo se dispersa la luz, igual que el cielo. Es un efecto óptico con pestañas."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "El hígado puede regenerarse.",
+  "a": 1,
+  "why": "Puede volver a crecer tras perder una parte. Ojalá el celular hiciera lo mismo."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Cortarse el pelo lo hace crecer más grueso.",
+  "a": 0,
+  "why": "El grosor lo decide el folículo, no las tijeras."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Crujirse los dedos causa artritis.",
+  "a": 0,
+  "why": "Los estudios no lo confirman. Sí puede molestar a quien tienes al lado."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Cada sabor se percibe en una zona distinta de la lengua.",
+  "a": 0,
+  "why": "El mapa de la lengua fue un error de un libro de 1901. Todas las zonas sienten todo."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "El pelo y las uñas siguen creciendo después de morir.",
+  "a": 0,
+  "why": "La piel se retrae y parece que crecen. Es un efecto óptico bastante dramático."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Si tragas un chicle, tarda siete años en digerirse.",
+  "a": 0,
+  "why": "Sale en pocos días, como cualquier cosa. El mito solo sirve para asustar niños."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Por la cabeza se pierde la mayor parte del calor del cuerpo.",
+  "a": 0,
+  "why": "Se pierde en proporción a la superficie expuesta, como en cualquier otra parte."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Nadar justo después de comer provoca un corte de digestión mortal.",
+  "a": 0,
+  "why": "No hay evidencia de que sea peligroso. Lo que sí puede pasar es un calambre leve."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Los humanos tenemos solo cinco sentidos.",
+  "a": 0,
+  "why": "Tenemos más: equilibrio, temperatura, dolor, y la sensación de dónde está tu cuerpo."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Afeitarse hace que el vello crezca más oscuro y grueso.",
+  "a": 0,
+  "why": "Solo se ve más grueso porque el corte es plano. Sale igual que antes."
+ },
+ {
+  "c": "Cuerpo",
+  "q": "Un trago de alcohol te ayuda a entrar en calor cuando hace frío.",
+  "a": 0,
+  "why": "Dilata los vasos sanguíneos y te enfría por dentro. Sientes calor, pero pierdes más."
+ },
+ {
+  "c": "Historia",
+  "q": "La Universidad de Oxford es más antigua que el Imperio azteca.",
+  "a": 1,
+  "why": "Se enseñaba en Oxford desde 1096 y Tenochtitlan se fundó en 1325. Los estudiantes ya procrastinaban."
+ },
+ {
+  "c": "Historia",
+  "q": "La guerra más corta de la historia duró menos de una hora.",
+  "a": 1,
+  "why": "Fue entre Reino Unido y Zanzíbar en 1896 y duró unos 40 minutos. Menos que una película."
+ },
+ {
+  "c": "Historia",
+  "q": "Los romanos usaban orina para lavar la ropa.",
+  "a": 1,
+  "why": "Los amoníacos limpiaban. Había incluso un impuesto a la orina."
+ },
+ {
+  "c": "Historia",
+  "q": "En 1518 hubo una plaga de baile en Estrasburgo.",
+  "a": 1,
+  "why": "Cientos de personas bailaron sin parar durante días. Nadie sabe bien por qué."
+ },
+ {
+  "c": "Historia",
+  "q": "Australia perdió una guerra contra los emús.",
+  "a": 1,
+  "why": "En 1932 mandaron soldados con ametralladoras y los emús ganaron por evasión."
+ },
+ {
+  "c": "Historia",
+  "q": "Nintendo se fundó en 1889 vendiendo naipes.",
+  "a": 1,
+  "why": "Antes de Mario ya barajaban. Once décadas después, los videojuegos."
+ },
+ {
+  "c": "Historia",
+  "q": "La Torre Eiffel iba a ser desmontada a los 20 años.",
+  "a": 1,
+  "why": "Se salvó porque sirvió como antena de radio. Fue útil por casualidad."
+ },
+ {
+  "c": "Historia",
+  "q": "Abraham Lincoln tuvo una patente.",
+  "a": 1,
+  "why": "Fue para un sistema que ayudaba a los barcos a flotar sobre bancos de arena. Es el único presidente de EE.UU. con patente."
+ },
+ {
+  "c": "Historia",
+  "q": "La universidad más antigua que sigue funcionando está en Marruecos.",
+  "a": 1,
+  "why": "Es Al-Qarawiyyin, en Fez, fundada en el año 859. Hay debate, pero es la que suele ganar."
+ },
+ {
+  "c": "Historia",
+  "q": "Según cuenta la historia, Napoleón fue atacado por una horda de conejos.",
+  "a": 1,
+  "why": "Cuenta la anécdota que los conejos, acostumbrados a que los alimentaran, lo rodearon en plena cacería. Algo de leyenda hay, pero la historia es tan buena que se quedó."
+ },
+ {
+  "c": "Historia",
+  "q": "Los vikingos usaban cascos con cuernos.",
+  "a": 0,
+  "why": "Esa imagen viene de una ópera del siglo XIX. En batalla, los cuernos eran un estorbo."
+ },
+ {
+  "c": "Historia",
+  "q": "Colón demostró que la Tierra era redonda.",
+  "a": 0,
+  "why": "Ya se sabía desde la antigua Grecia. La discusión era el tamaño y él se equivocó."
+ },
+ {
+  "c": "Historia",
+  "q": "Los cinturones de castidad eran de uso común en la Edad Media.",
+  "a": 0,
+  "why": "Casi no existieron entonces. La mayoría son inventos o exageraciones posteriores."
+ },
+ {
+  "c": "Historia",
+  "q": "Einstein reprobó matemáticas cuando era niño.",
+  "a": 0,
+  "why": "Dominaba el cálculo antes de los 15. El mito circula para consolar a los que reprueban."
+ },
+ {
+  "c": "Historia",
+  "q": "La Gran Muralla China se ve a simple vista desde la Luna.",
+  "a": 0,
+  "why": "Ni siquiera se ve bien desde la órbita baja. Es larga, pero muy angosta."
+ },
+ {
+  "c": "Historia",
+  "q": "María Antonieta dijo: que coman pasteles.",
+  "a": 0,
+  "why": "No hay pruebas de que lo dijera. Esa frase ya circulaba antes de que ella llegara."
+ },
+ {
+  "c": "Historia",
+  "q": "Las pirámides de Egipto las construyeron esclavos.",
+  "a": 0,
+  "why": "Los restos muestran que eran trabajadores pagados y bien alimentados."
+ },
+ {
+  "c": "Historia",
+  "q": "Nerón tocaba el violín mientras Roma ardía.",
+  "a": 0,
+  "why": "El violín ni existía. Además, ese día ni siquiera estaba en la ciudad."
+ },
+ {
+  "c": "Historia",
+  "q": "Los gladiadores siempre peleaban a muerte.",
+  "a": 0,
+  "why": "Entrenarlos era caro, así que a menudo se evitaba que murieran. Eran más valiosos vivos."
+ },
+ {
+  "c": "Historia",
+  "q": "En Salem, las acusadas de brujería fueron quemadas en la hoguera.",
+  "a": 0,
+  "why": "Las ahorcaron. Y a un hombre lo aplastaron con piedras. No quedó espacio para las hogueras."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Un día en Venus dura más que un año en Venus.",
+  "a": 1,
+  "why": "Rota tan lento que un día equivale a unos 243 terrestres, y el año a solo 225."
+ },
+ {
+  "c": "Ciencia",
+  "q": "En el espacio, las lágrimas no caen.",
+  "a": 1,
+  "why": "Sin gravedad se quedan pegadas al ojo como una gotita. Llorar en órbita es incómodo."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Los astronautas crecen unos centímetros en el espacio.",
+  "a": 1,
+  "why": "La columna se estira sin gravedad. Al volver, se encogen otra vez."
+ },
+ {
+  "c": "Ciencia",
+  "q": "El sonido no viaja en el vacío.",
+  "a": 1,
+  "why": "Sin aire no hay ondas de sonido. Las explosiones de las películas espaciales son teatro."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Casi todos los átomos de tu cuerpo se forjaron en estrellas.",
+  "a": 1,
+  "why": "Excepto el hidrógeno. Literalmente, estás hecho de polvo de estrellas."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Saturno flotaría en una bañera lo bastante grande.",
+  "a": 1,
+  "why": "Es menos denso que el agua. Necesitarías una bañera enorme."
+ },
+ {
+  "c": "Ciencia",
+  "q": "La luz del Sol tarda unos 8 minutos en llegar a la Tierra.",
+  "a": 1,
+  "why": "Si el Sol se apagara, tardaríamos unos ocho minutos en enterarnos. Una prórroga muy poco útil."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Un rayo puede ser más caliente que la superficie del Sol.",
+  "a": 1,
+  "why": "Alcanza unos 30 000 °C, contra unos 5 500 °C del Sol. Y dura milisegundos."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Las bananas son ligeramente radiactivas.",
+  "a": 1,
+  "why": "Por el potasio que contienen. Inofensivo: harían falta millones para hacerte daño."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Hay más estrellas en el universo que granos de arena en todas las playas de la Tierra.",
+  "a": 1,
+  "why": "Es una estimación, claro: nadie se ha puesto a contar. Pero las estrellas ganan por goleada."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Los rayos nunca caen dos veces en el mismo lugar.",
+  "a": 0,
+  "why": "Caen varias veces. El Empire State recibe unos 20 al año."
+ },
+ {
+  "c": "Ciencia",
+  "q": "El vidrio es un líquido que fluye muy despacio.",
+  "a": 0,
+  "why": "Es un sólido. Los vitrales antiguos son más gruesos abajo por cómo los fabricaban."
+ },
+ {
+  "c": "Ciencia",
+  "q": "El Sol es amarillo.",
+  "a": 0,
+  "why": "Es blanco. Se ve amarillo por el aire de nuestra atmósfera."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Las estaciones se deben a que la Tierra se acerca y se aleja del Sol.",
+  "a": 0,
+  "why": "Se deben a la inclinación del eje. En enero, el hemisferio norte está más cerca del Sol y aun así hace frío."
+ },
+ {
+  "c": "Ciencia",
+  "q": "En la Estación Espacial Internacional no hay gravedad.",
+  "a": 0,
+  "why": "Hay casi la misma que en la Tierra. Flotan porque están en caída libre."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Mercurio es el planeta más caliente porque es el más cercano al Sol.",
+  "a": 0,
+  "why": "Es Venus, por su atmósfera que atrapa el calor."
+ },
+ {
+  "c": "Ciencia",
+  "q": "La Luna tiene un lado oscuro que nunca recibe luz solar.",
+  "a": 0,
+  "why": "Solo es el lado que no vemos. Ambos lados reciben luz por igual."
+ },
+ {
+  "c": "Ciencia",
+  "q": "El agua pura conduce muy bien la electricidad.",
+  "a": 0,
+  "why": "Casi no conduce. Lo que conduce son las sales y minerales que lleva disueltos."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Los diamantes se forman a partir de carbón comprimido.",
+  "a": 0,
+  "why": "Suelen formarse a mayor profundidad que el carbón. No vienen de él."
+ },
+ {
+  "c": "Ciencia",
+  "q": "Las estrellas fugaces son estrellas que caen.",
+  "a": 0,
+  "why": "Son pedacitos de roca que se queman al entrar en la atmósfera. Una estrella real nos vaporizaría."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "La miel no se echa a perder.",
+  "a": 1,
+  "why": "Se encontró miel comestible en tumbas egipcias. Es la reina de las conservas."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "Las primeras zanahorias cultivadas no eran naranjas.",
+  "a": 1,
+  "why": "Eran moradas y amarillas. La naranja llegó después."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El ketchup se vendió como medicina en el siglo XIX.",
+  "a": 1,
+  "why": "Se prometía curar de todo. Ahora solo cura la hamburguesa seca."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "La papa fue una de las primeras plantas cultivadas en el espacio.",
+  "a": 1,
+  "why": "Fue en 1995, en un transbordador. La misión: papas sin freidora."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El wasabi de muchos restaurantes es rábano picante con colorante.",
+  "a": 1,
+  "why": "El auténtico es caro y difícil de cultivar. Lo que comes probablemente es un impostor verde."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El maní no es un fruto seco, es una legumbre.",
+  "a": 1,
+  "why": "Crece bajo tierra, igual que las lentejas. Un frutito seco disfrazado."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El café sale de la semilla de una fruta.",
+  "a": 1,
+  "why": "Es la cereza del cafeto. Al tostarla se convierte en lo que necesitas cada mañana."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El mandarín es la lengua con más hablantes nativos del mundo.",
+  "a": 1,
+  "why": "Le sigue el español, en segundo lugar."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El español es el segundo idioma con más hablantes nativos.",
+  "a": 1,
+  "why": "Casi 500 millones. Y todavía discutimos cómo se pronuncia la elle."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "Botánicamente, el tomate es una fruta.",
+  "a": 1,
+  "why": "Tiene semillas y sale de una flor. Pero no lo pongas en el postre."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El azúcar vuelve hiperactivos a los niños.",
+  "a": 0,
+  "why": "Los estudios no lo confirman. Lo que hay es fiesta, emoción y padres que lo creen."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El microondas cocina desde adentro hacia afuera.",
+  "a": 0,
+  "why": "Calienta las capas exteriores primero. Por eso el centro del burrito sigue helado."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "Comer zanahorias te da visión nocturna.",
+  "a": 0,
+  "why": "Es un invento de propaganda británica de la Segunda Guerra Mundial. Ayudan a la vista, pero no ves en la oscuridad."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "Las espinacas son la verdura con más hierro del mundo.",
+  "a": 0,
+  "why": "Tienen bastante, pero no tanto. El mito de Popeye nació de un error decimal."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El alcohol se evapora por completo al cocinar.",
+  "a": 0,
+  "why": "Queda una parte, según el tiempo de cocción. No es tan inocente como parece."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "Las galletas de la fortuna son un invento chino.",
+  "a": 0,
+  "why": "Nacieron en Japón y las popularizaron en California."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "La palabra sushi significa pescado crudo.",
+  "a": 0,
+  "why": "Significa arroz avinagrado. El pescado crudo se llama sashimi."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El croissant es un invento francés.",
+  "a": 0,
+  "why": "Viene de Austria, del kipferl. Francia solo lo llevó a la fama."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El tomate es originario de Italia.",
+  "a": 0,
+  "why": "Es de América. Antes de la conquista, la pasta italiana no llevaba tomate."
+ },
+ {
+  "c": "Comida y cultura",
+  "q": "El chile pica más en las semillas.",
+  "a": 0,
+  "why": "El picante está sobre todo en las membranas que las rodean. Las semillas solo se llevan la fama."
+ }
+]
